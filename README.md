@@ -1,4 +1,4 @@
-# Introducción docker y containe
+# Introducción docker y container
 
 Materiais de Apoio
  
@@ -39,4 +39,6 @@ https://docs.docker.com/engine/reference/commandline/docker/
 
 https://dev.to/soutoigor/docker-imagens-containers-e-seus-principais-comandos-23p6
 
-Bons estudos! wink
+Bons estudos! 
+
+wink
